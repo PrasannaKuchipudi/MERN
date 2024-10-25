@@ -1,0 +1,23 @@
+p{
+    color:green;
+}
+h6{
+    font-weight: bold;
+    color:black ;
+} 
+
+.button1{
+    background-color: rgba(255,216,20);
+    color:black;
+    padding:8px 30px;
+    border-radius: 70px;
+    border:none;
+    
+}
+.button2{
+    background-color: rgba(254,169,42);
+    color: black;
+    padding:8px 30px;
+    border-radius: 70px;
+    border:none;
+    }
